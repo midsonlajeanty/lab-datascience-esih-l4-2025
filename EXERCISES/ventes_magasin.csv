@@ -1,0 +1,911 @@
+Date,Produit,Catégorie,Quantité Vendue,Prix Unitaire,Total Ventes
+2024-01-01,Laptop,Électronique,2,1528,3056
+2024-01-01,Smartphone,Électronique,6,1430,8580
+2024-01-01,Casque Audio,Accessoires,17,1781,30277
+2024-01-01,Clavier Mécanique,Accessoires,10,1756,17560
+2024-01-01,Chaise Gaming,Mobilier,6,1041,6246
+2024-01-01,Écran 27 pouces,Électronique,8,1340,10720
+2024-01-01,Souris Sans Fil,Accessoires,1,1693,1693
+2024-01-01,Table de Bureau,Mobilier,7,1235,8645
+2024-01-01,Ventilateur PC,Accessoires,2,542,1084
+2024-01-01,Disque SSD 1To,Électronique,17,622,10574
+2024-01-02,Laptop,Électronique,5,842,4210
+2024-01-02,Smartphone,Électronique,4,1236,4944
+2024-01-02,Casque Audio,Accessoires,5,1152,5760
+2024-01-02,Clavier Mécanique,Accessoires,5,1114,5570
+2024-01-02,Chaise Gaming,Mobilier,13,90,1170
+2024-01-02,Écran 27 pouces,Électronique,4,562,2248
+2024-01-02,Souris Sans Fil,Accessoires,9,796,7164
+2024-01-02,Table de Bureau,Mobilier,12,1889,22668
+2024-01-02,Ventilateur PC,Accessoires,18,1821,32778
+2024-01-02,Disque SSD 1To,Électronique,6,349,2094
+2024-01-03,Laptop,Électronique,16,704,11264
+2024-01-03,Smartphone,Électronique,9,1919,17271
+2024-01-03,Casque Audio,Accessoires,14,1019,14266
+2024-01-03,Clavier Mécanique,Accessoires,13,217,2821
+2024-01-03,Chaise Gaming,Mobilier,1,162,162
+2024-01-03,Écran 27 pouces,Électronique,7,547,3829
+2024-01-03,Souris Sans Fil,Accessoires,13,583,7579
+2024-01-03,Table de Bureau,Mobilier,1,600,600
+2024-01-03,Ventilateur PC,Accessoires,4,1902,7608
+2024-01-03,Disque SSD 1To,Électronique,6,571,3426
+2024-01-04,Laptop,Électronique,13,1609,20917
+2024-01-04,Smartphone,Électronique,14,786,11004
+2024-01-04,Casque Audio,Accessoires,19,1218,23142
+2024-01-04,Clavier Mécanique,Accessoires,1,1214,1214
+2024-01-04,Chaise Gaming,Mobilier,11,288,3168
+2024-01-04,Écran 27 pouces,Électronique,6,923,5538
+2024-01-04,Souris Sans Fil,Accessoires,1,892,892
+2024-01-04,Table de Bureau,Mobilier,10,426,4260
+2024-01-04,Ventilateur PC,Accessoires,3,1387,4161
+2024-01-04,Disque SSD 1To,Électronique,9,1129,10161
+2024-01-05,Laptop,Électronique,16,1872,29952
+2024-01-05,Smartphone,Électronique,13,731,9503
+2024-01-05,Casque Audio,Accessoires,6,414,2484
+2024-01-05,Clavier Mécanique,Accessoires,14,1038,14532
+2024-01-05,Chaise Gaming,Mobilier,9,1065,9585
+2024-01-05,Écran 27 pouces,Électronique,7,1510,10570
+2024-01-05,Souris Sans Fil,Accessoires,1,880,880
+2024-01-05,Table de Bureau,Mobilier,15,1245,18675
+2024-01-05,Ventilateur PC,Accessoires,5,907,4535
+2024-01-05,Disque SSD 1To,Électronique,7,298,2086
+2024-01-06,Laptop,Électronique,15,1695,25425
+2024-01-06,Smartphone,Électronique,18,735,13230
+2024-01-06,Casque Audio,Accessoires,16,1822,29152
+2024-01-06,Clavier Mécanique,Accessoires,7,1300,9100
+2024-01-06,Chaise Gaming,Mobilier,13,1609,20917
+2024-01-06,Écran 27 pouces,Électronique,11,1639,18029
+2024-01-06,Souris Sans Fil,Accessoires,16,704,11264
+2024-01-06,Table de Bureau,Mobilier,14,537,7518
+2024-01-06,Ventilateur PC,Accessoires,19,335,6365
+2024-01-06,Disque SSD 1To,Électronique,11,1859,20449
+2024-01-07,Laptop,Électronique,2,1108,2216
+2024-01-07,Smartphone,Électronique,8,200,1600
+2024-01-07,Casque Audio,Accessoires,4,1054,4216
+2024-01-07,Clavier Mécanique,Accessoires,11,771,8481
+2024-01-07,Chaise Gaming,Mobilier,10,874,8740
+2024-01-07,Écran 27 pouces,Électronique,14,950,13300
+2024-01-07,Souris Sans Fil,Accessoires,16,1803,28848
+2024-01-07,Table de Bureau,Mobilier,5,843,4215
+2024-01-07,Ventilateur PC,Accessoires,3,1677,5031
+2024-01-07,Disque SSD 1To,Électronique,7,257,1799
+2024-01-08,Laptop,Électronique,9,407,3663
+2024-01-08,Smartphone,Électronique,15,1296,19440
+2024-01-08,Casque Audio,Accessoires,11,773,8503
+2024-01-08,Clavier Mécanique,Accessoires,16,1091,17456
+2024-01-08,Chaise Gaming,Mobilier,2,696,1392
+2024-01-08,Écran 27 pouces,Électronique,11,92,1012
+2024-01-08,Souris Sans Fil,Accessoires,11,1010,11110
+2024-01-08,Table de Bureau,Mobilier,1,93,93
+2024-01-08,Ventilateur PC,Accessoires,5,1625,8125
+2024-01-08,Disque SSD 1To,Électronique,12,179,2148
+2024-01-09,Laptop,Électronique,10,1953,19530
+2024-01-09,Smartphone,Électronique,10,1211,12110
+2024-01-09,Casque Audio,Accessoires,12,853,10236
+2024-01-09,Clavier Mécanique,Accessoires,8,938,7504
+2024-01-09,Chaise Gaming,Mobilier,4,1916,7664
+2024-01-09,Écran 27 pouces,Électronique,3,1997,5991
+2024-01-09,Souris Sans Fil,Accessoires,4,278,1112
+2024-01-09,Table de Bureau,Mobilier,4,917,3668
+2024-01-09,Ventilateur PC,Accessoires,8,358,2864
+2024-01-09,Disque SSD 1To,Électronique,15,1752,26280
+2024-01-10,Laptop,Électronique,2,1861,3722
+2024-01-10,Smartphone,Électronique,8,1313,10504
+2024-01-10,Casque Audio,Accessoires,12,499,5988
+2024-01-10,Clavier Mécanique,Accessoires,14,1663,23282
+2024-01-10,Chaise Gaming,Mobilier,2,1438,2876
+2024-01-10,Écran 27 pouces,Électronique,7,494,3458
+2024-01-10,Souris Sans Fil,Accessoires,10,620,6200
+2024-01-10,Table de Bureau,Mobilier,10,1499,14990
+2024-01-10,Ventilateur PC,Accessoires,16,111,1776
+2024-01-10,Disque SSD 1To,Électronique,18,117,2106
+2024-01-11,Laptop,Électronique,9,1555,13995
+2024-01-11,Smartphone,Électronique,2,1274,2548
+2024-01-11,Casque Audio,Accessoires,17,1779,30243
+2024-01-11,Clavier Mécanique,Accessoires,3,1073,3219
+2024-01-11,Chaise Gaming,Mobilier,17,1982,33694
+2024-01-11,Écran 27 pouces,Électronique,8,1871,14968
+2024-01-11,Souris Sans Fil,Accessoires,16,237,3792
+2024-01-11,Table de Bureau,Mobilier,15,1371,20565
+2024-01-11,Ventilateur PC,Accessoires,11,590,6490
+2024-01-11,Disque SSD 1To,Électronique,12,656,7872
+2024-01-12,Laptop,Électronique,18,615,11070
+2024-01-12,Smartphone,Électronique,18,306,5508
+2024-01-12,Casque Audio,Accessoires,14,605,8470
+2024-01-12,Clavier Mécanique,Accessoires,2,1253,2506
+2024-01-12,Chaise Gaming,Mobilier,18,1289,23202
+2024-01-12,Écran 27 pouces,Électronique,12,984,11808
+2024-01-12,Souris Sans Fil,Accessoires,10,1594,15940
+2024-01-12,Table de Bureau,Mobilier,4,1042,4168
+2024-01-12,Ventilateur PC,Accessoires,10,1432,14320
+2024-01-12,Disque SSD 1To,Électronique,19,159,3021
+2024-01-13,Laptop,Électronique,17,1188,20196
+2024-01-13,Smartphone,Électronique,18,168,3024
+2024-01-13,Casque Audio,Accessoires,9,1861,16749
+2024-01-13,Clavier Mécanique,Accessoires,12,1544,18528
+2024-01-13,Chaise Gaming,Mobilier,13,642,8346
+2024-01-13,Écran 27 pouces,Électronique,18,251,4518
+2024-01-13,Souris Sans Fil,Accessoires,6,1204,7224
+2024-01-13,Table de Bureau,Mobilier,15,1077,16155
+2024-01-13,Ventilateur PC,Accessoires,8,1420,11360
+2024-01-13,Disque SSD 1To,Électronique,16,615,9840
+2024-01-14,Laptop,Électronique,15,1548,23220
+2024-01-14,Smartphone,Électronique,3,350,1050
+2024-01-14,Casque Audio,Accessoires,6,1153,6918
+2024-01-14,Clavier Mécanique,Accessoires,12,1318,15816
+2024-01-14,Chaise Gaming,Mobilier,19,193,3667
+2024-01-14,Écran 27 pouces,Électronique,9,1076,9684
+2024-01-14,Souris Sans Fil,Accessoires,19,1571,29849
+2024-01-14,Table de Bureau,Mobilier,6,1825,10950
+2024-01-14,Ventilateur PC,Accessoires,4,614,2456
+2024-01-14,Disque SSD 1To,Électronique,7,87,609
+2024-01-15,Laptop,Électronique,1,889,889
+2024-01-15,Smartphone,Électronique,13,1961,25493
+2024-01-15,Casque Audio,Accessoires,15,350,5250
+2024-01-15,Clavier Mécanique,Accessoires,11,1690,18590
+2024-01-15,Chaise Gaming,Mobilier,6,538,3228
+2024-01-15,Écran 27 pouces,Électronique,18,932,16776
+2024-01-15,Souris Sans Fil,Accessoires,6,465,2790
+2024-01-15,Table de Bureau,Mobilier,7,1667,11669
+2024-01-15,Ventilateur PC,Accessoires,4,885,3540
+2024-01-15,Disque SSD 1To,Électronique,10,1006,10060
+2024-01-16,Laptop,Électronique,1,1683,1683
+2024-01-16,Smartphone,Électronique,2,632,1264
+2024-01-16,Casque Audio,Accessoires,3,1754,5262
+2024-01-16,Clavier Mécanique,Accessoires,11,1999,21989
+2024-01-16,Chaise Gaming,Mobilier,6,351,2106
+2024-01-16,Écran 27 pouces,Électronique,15,1348,20220
+2024-01-16,Souris Sans Fil,Accessoires,15,551,8265
+2024-01-16,Table de Bureau,Mobilier,9,892,8028
+2024-01-16,Ventilateur PC,Accessoires,19,1526,28994
+2024-01-16,Disque SSD 1To,Électronique,14,145,2030
+2024-01-17,Laptop,Électronique,8,179,1432
+2024-01-17,Smartphone,Électronique,4,1292,5168
+2024-01-17,Casque Audio,Accessoires,5,1218,6090
+2024-01-17,Clavier Mécanique,Accessoires,15,1852,27780
+2024-01-17,Chaise Gaming,Mobilier,1,1020,1020
+2024-01-17,Écran 27 pouces,Électronique,1,540,540
+2024-01-17,Souris Sans Fil,Accessoires,1,1993,1993
+2024-01-17,Table de Bureau,Mobilier,4,607,2428
+2024-01-17,Ventilateur PC,Accessoires,19,1918,36442
+2024-01-17,Disque SSD 1To,Électronique,18,1310,23580
+2024-01-18,Laptop,Électronique,19,1480,28120
+2024-01-18,Smartphone,Électronique,7,1187,8309
+2024-01-18,Casque Audio,Accessoires,6,1983,11898
+2024-01-18,Clavier Mécanique,Accessoires,16,793,12688
+2024-01-18,Chaise Gaming,Mobilier,12,945,11340
+2024-01-18,Écran 27 pouces,Électronique,18,1367,24606
+2024-01-18,Souris Sans Fil,Accessoires,2,1573,3146
+2024-01-18,Table de Bureau,Mobilier,2,219,438
+2024-01-18,Ventilateur PC,Accessoires,11,295,3245
+2024-01-18,Disque SSD 1To,Électronique,10,242,2420
+2024-01-19,Laptop,Électronique,2,1409,2818
+2024-01-19,Smartphone,Électronique,10,1976,19760
+2024-01-19,Casque Audio,Accessoires,10,1901,19010
+2024-01-19,Clavier Mécanique,Accessoires,2,403,806
+2024-01-19,Chaise Gaming,Mobilier,18,1976,35568
+2024-01-19,Écran 27 pouces,Électronique,2,1812,3624
+2024-01-19,Souris Sans Fil,Accessoires,17,139,2363
+2024-01-19,Table de Bureau,Mobilier,14,216,3024
+2024-01-19,Ventilateur PC,Accessoires,5,62,310
+2024-01-19,Disque SSD 1To,Électronique,11,1235,13585
+2024-01-20,Laptop,Électronique,7,1132,7924
+2024-01-20,Smartphone,Électronique,12,89,1068
+2024-01-20,Casque Audio,Accessoires,11,1543,16973
+2024-01-20,Clavier Mécanique,Accessoires,8,326,2608
+2024-01-20,Chaise Gaming,Mobilier,19,1316,25004
+2024-01-20,Écran 27 pouces,Électronique,1,1737,1737
+2024-01-20,Souris Sans Fil,Accessoires,16,268,4288
+2024-01-20,Table de Bureau,Mobilier,9,1767,15903
+2024-01-20,Ventilateur PC,Accessoires,11,236,2596
+2024-01-20,Disque SSD 1To,Électronique,12,496,5952
+2024-01-21,Laptop,Électronique,19,237,4503
+2024-01-21,Smartphone,Électronique,18,307,5526
+2024-01-21,Casque Audio,Accessoires,9,878,7902
+2024-01-21,Clavier Mécanique,Accessoires,5,1565,7825
+2024-01-21,Chaise Gaming,Mobilier,10,1648,16480
+2024-01-21,Écran 27 pouces,Électronique,3,564,1692
+2024-01-21,Souris Sans Fil,Accessoires,5,513,2565
+2024-01-21,Table de Bureau,Mobilier,11,916,10076
+2024-01-21,Ventilateur PC,Accessoires,3,1127,3381
+2024-01-21,Disque SSD 1To,Électronique,2,1750,3500
+2024-01-22,Laptop,Électronique,11,1543,16973
+2024-01-22,Smartphone,Électronique,9,1173,10557
+2024-01-22,Casque Audio,Accessoires,15,1778,26670
+2024-01-22,Clavier Mécanique,Accessoires,12,230,2760
+2024-01-22,Chaise Gaming,Mobilier,11,939,10329
+2024-01-22,Écran 27 pouces,Électronique,19,488,9272
+2024-01-22,Souris Sans Fil,Accessoires,7,1087,7609
+2024-01-22,Table de Bureau,Mobilier,3,128,384
+2024-01-22,Ventilateur PC,Accessoires,7,886,6202
+2024-01-22,Disque SSD 1To,Électronique,15,478,7170
+2024-01-23,Laptop,Électronique,9,261,2349
+2024-01-23,Smartphone,Électronique,16,809,12944
+2024-01-23,Casque Audio,Accessoires,17,328,5576
+2024-01-23,Clavier Mécanique,Accessoires,10,355,3550
+2024-01-23,Chaise Gaming,Mobilier,13,907,11791
+2024-01-23,Écran 27 pouces,Électronique,15,90,1350
+2024-01-23,Souris Sans Fil,Accessoires,2,1938,3876
+2024-01-23,Table de Bureau,Mobilier,12,241,2892
+2024-01-23,Ventilateur PC,Accessoires,11,1636,17996
+2024-01-23,Disque SSD 1To,Électronique,13,1072,13936
+2024-01-24,Laptop,Électronique,9,981,8829
+2024-01-24,Smartphone,Électronique,17,50,850
+2024-01-24,Casque Audio,Accessoires,6,1273,7638
+2024-01-24,Clavier Mécanique,Accessoires,5,1477,7385
+2024-01-24,Chaise Gaming,Mobilier,9,1491,13419
+2024-01-24,Écran 27 pouces,Électronique,4,1350,5400
+2024-01-24,Souris Sans Fil,Accessoires,12,707,8484
+2024-01-24,Table de Bureau,Mobilier,4,1743,6972
+2024-01-24,Ventilateur PC,Accessoires,14,1185,16590
+2024-01-24,Disque SSD 1To,Électronique,5,248,1240
+2024-01-25,Laptop,Électronique,9,1648,14832
+2024-01-25,Smartphone,Électronique,15,1953,29295
+2024-01-25,Casque Audio,Accessoires,8,471,3768
+2024-01-25,Clavier Mécanique,Accessoires,4,1235,4940
+2024-01-25,Chaise Gaming,Mobilier,3,830,2490
+2024-01-25,Écran 27 pouces,Électronique,5,181,905
+2024-01-25,Souris Sans Fil,Accessoires,14,1692,23688
+2024-01-25,Table de Bureau,Mobilier,6,651,3906
+2024-01-25,Ventilateur PC,Accessoires,16,1067,17072
+2024-01-25,Disque SSD 1To,Électronique,7,614,4298
+2024-01-26,Laptop,Électronique,1,87,87
+2024-01-26,Smartphone,Électronique,16,1478,23648
+2024-01-26,Casque Audio,Accessoires,4,376,1504
+2024-01-26,Clavier Mécanique,Accessoires,6,1506,9036
+2024-01-26,Chaise Gaming,Mobilier,5,568,2840
+2024-01-26,Écran 27 pouces,Électronique,19,1385,26315
+2024-01-26,Souris Sans Fil,Accessoires,2,612,1224
+2024-01-26,Table de Bureau,Mobilier,8,1121,8968
+2024-01-26,Ventilateur PC,Accessoires,18,1221,21978
+2024-01-26,Disque SSD 1To,Électronique,6,452,2712
+2024-01-27,Laptop,Électronique,16,889,14224
+2024-01-27,Smartphone,Électronique,8,1001,8008
+2024-01-27,Casque Audio,Accessoires,12,575,6900
+2024-01-27,Clavier Mécanique,Accessoires,4,1059,4236
+2024-01-27,Chaise Gaming,Mobilier,7,378,2646
+2024-01-27,Écran 27 pouces,Électronique,8,60,480
+2024-01-27,Souris Sans Fil,Accessoires,12,1908,22896
+2024-01-27,Table de Bureau,Mobilier,4,1019,4076
+2024-01-27,Ventilateur PC,Accessoires,15,848,12720
+2024-01-27,Disque SSD 1To,Électronique,8,97,776
+2024-01-28,Laptop,Électronique,1,1464,1464
+2024-01-28,Smartphone,Électronique,4,1683,6732
+2024-01-28,Casque Audio,Accessoires,11,1720,18920
+2024-01-28,Clavier Mécanique,Accessoires,7,1964,13748
+2024-01-28,Chaise Gaming,Mobilier,8,1607,12856
+2024-01-28,Écran 27 pouces,Électronique,17,281,4777
+2024-01-28,Souris Sans Fil,Accessoires,14,1829,25606
+2024-01-28,Table de Bureau,Mobilier,19,817,15523
+2024-01-28,Ventilateur PC,Accessoires,8,129,1032
+2024-01-28,Disque SSD 1To,Électronique,2,1504,3008
+2024-01-29,Laptop,Électronique,18,1481,26658
+2024-01-29,Smartphone,Électronique,1,440,440
+2024-01-29,Casque Audio,Accessoires,9,1113,10017
+2024-01-29,Clavier Mécanique,Accessoires,15,1754,26310
+2024-01-29,Chaise Gaming,Mobilier,2,98,196
+2024-01-29,Écran 27 pouces,Électronique,18,1531,27558
+2024-01-29,Souris Sans Fil,Accessoires,3,1417,4251
+2024-01-29,Table de Bureau,Mobilier,13,212,2756
+2024-01-29,Ventilateur PC,Accessoires,8,1678,13424
+2024-01-29,Disque SSD 1To,Électronique,3,431,1293
+2024-01-30,Laptop,Électronique,8,1299,10392
+2024-01-30,Smartphone,Électronique,5,1782,8910
+2024-01-30,Casque Audio,Accessoires,3,1352,4056
+2024-01-30,Clavier Mécanique,Accessoires,2,215,430
+2024-01-30,Chaise Gaming,Mobilier,5,1241,6205
+2024-01-30,Écran 27 pouces,Électronique,3,1872,5616
+2024-01-30,Souris Sans Fil,Accessoires,2,192,384
+2024-01-30,Table de Bureau,Mobilier,15,117,1755
+2024-01-30,Ventilateur PC,Accessoires,5,917,4585
+2024-01-30,Disque SSD 1To,Électronique,13,1762,22906
+2024-01-31,Laptop,Électronique,7,807,5649
+2024-01-31,Smartphone,Électronique,16,91,1456
+2024-01-31,Casque Audio,Accessoires,4,1238,4952
+2024-01-31,Clavier Mécanique,Accessoires,12,460,5520
+2024-01-31,Chaise Gaming,Mobilier,16,1610,25760
+2024-01-31,Écran 27 pouces,Électronique,19,447,8493
+2024-01-31,Souris Sans Fil,Accessoires,1,1164,1164
+2024-01-31,Table de Bureau,Mobilier,2,743,1486
+2024-01-31,Ventilateur PC,Accessoires,19,1491,28329
+2024-01-31,Disque SSD 1To,Électronique,7,1946,13622
+2024-02-01,Laptop,Électronique,6,1633,9798
+2024-02-01,Smartphone,Électronique,17,1928,32776
+2024-02-01,Casque Audio,Accessoires,6,1847,11082
+2024-02-01,Clavier Mécanique,Accessoires,2,466,932
+2024-02-01,Chaise Gaming,Mobilier,3,1984,5952
+2024-02-01,Écran 27 pouces,Électronique,6,1451,8706
+2024-02-01,Souris Sans Fil,Accessoires,14,1999,27986
+2024-02-01,Table de Bureau,Mobilier,10,1398,13980
+2024-02-01,Ventilateur PC,Accessoires,19,756,14364
+2024-02-01,Disque SSD 1To,Électronique,14,1501,21014
+2024-02-02,Laptop,Électronique,14,1054,14756
+2024-02-02,Smartphone,Électronique,8,667,5336
+2024-02-02,Casque Audio,Accessoires,14,1303,18242
+2024-02-02,Clavier Mécanique,Accessoires,8,1971,15768
+2024-02-02,Chaise Gaming,Mobilier,13,680,8840
+2024-02-02,Écran 27 pouces,Électronique,1,584,584
+2024-02-02,Souris Sans Fil,Accessoires,9,51,459
+2024-02-02,Table de Bureau,Mobilier,19,703,13357
+2024-02-02,Ventilateur PC,Accessoires,11,1794,19734
+2024-02-02,Disque SSD 1To,Électronique,15,1123,16845
+2024-02-03,Laptop,Électronique,12,936,11232
+2024-02-03,Smartphone,Électronique,17,1404,23868
+2024-02-03,Casque Audio,Accessoires,2,130,260
+2024-02-03,Clavier Mécanique,Accessoires,17,598,10166
+2024-02-03,Chaise Gaming,Mobilier,8,940,7520
+2024-02-03,Écran 27 pouces,Électronique,19,1066,20254
+2024-02-03,Souris Sans Fil,Accessoires,17,284,4828
+2024-02-03,Table de Bureau,Mobilier,14,765,10710
+2024-02-03,Ventilateur PC,Accessoires,13,1831,23803
+2024-02-03,Disque SSD 1To,Électronique,9,1063,9567
+2024-02-04,Laptop,Électronique,17,888,15096
+2024-02-04,Smartphone,Électronique,12,1298,15576
+2024-02-04,Casque Audio,Accessoires,8,917,7336
+2024-02-04,Clavier Mécanique,Accessoires,2,205,410
+2024-02-04,Chaise Gaming,Mobilier,10,1186,11860
+2024-02-04,Écran 27 pouces,Électronique,11,1493,16423
+2024-02-04,Souris Sans Fil,Accessoires,18,1138,20484
+2024-02-04,Table de Bureau,Mobilier,18,914,16452
+2024-02-04,Ventilateur PC,Accessoires,3,545,1635
+2024-02-04,Disque SSD 1To,Électronique,15,225,3375
+2024-02-05,Laptop,Électronique,7,1310,9170
+2024-02-05,Smartphone,Électronique,16,1841,29456
+2024-02-05,Casque Audio,Accessoires,6,1228,7368
+2024-02-05,Clavier Mécanique,Accessoires,3,159,477
+2024-02-05,Chaise Gaming,Mobilier,13,276,3588
+2024-02-05,Écran 27 pouces,Électronique,6,70,420
+2024-02-05,Souris Sans Fil,Accessoires,19,277,5263
+2024-02-05,Table de Bureau,Mobilier,9,1674,15066
+2024-02-05,Ventilateur PC,Accessoires,6,1343,8058
+2024-02-05,Disque SSD 1To,Électronique,11,985,10835
+2024-02-06,Laptop,Électronique,9,1366,12294
+2024-02-06,Smartphone,Électronique,6,1659,9954
+2024-02-06,Casque Audio,Accessoires,9,277,2493
+2024-02-06,Clavier Mécanique,Accessoires,9,1245,11205
+2024-02-06,Chaise Gaming,Mobilier,18,1057,19026
+2024-02-06,Écran 27 pouces,Électronique,14,1627,22778
+2024-02-06,Souris Sans Fil,Accessoires,5,930,4650
+2024-02-06,Table de Bureau,Mobilier,15,1714,25710
+2024-02-06,Ventilateur PC,Accessoires,16,831,13296
+2024-02-06,Disque SSD 1To,Électronique,2,1890,3780
+2024-02-07,Laptop,Électronique,11,1251,13761
+2024-02-07,Smartphone,Électronique,18,923,16614
+2024-02-07,Casque Audio,Accessoires,10,319,3190
+2024-02-07,Clavier Mécanique,Accessoires,17,753,12801
+2024-02-07,Chaise Gaming,Mobilier,11,233,2563
+2024-02-07,Écran 27 pouces,Électronique,9,979,8811
+2024-02-07,Souris Sans Fil,Accessoires,14,1030,14420
+2024-02-07,Table de Bureau,Mobilier,17,758,12886
+2024-02-07,Ventilateur PC,Accessoires,14,1181,16534
+2024-02-07,Disque SSD 1To,Électronique,16,418,6688
+2024-02-08,Laptop,Électronique,1,1636,1636
+2024-02-08,Smartphone,Électronique,13,1428,18564
+2024-02-08,Casque Audio,Accessoires,17,1838,31246
+2024-02-08,Clavier Mécanique,Accessoires,4,1901,7604
+2024-02-08,Chaise Gaming,Mobilier,6,1452,8712
+2024-02-08,Écran 27 pouces,Électronique,11,1044,11484
+2024-02-08,Souris Sans Fil,Accessoires,19,75,1425
+2024-02-08,Table de Bureau,Mobilier,9,479,4311
+2024-02-08,Ventilateur PC,Accessoires,17,1582,26894
+2024-02-08,Disque SSD 1To,Électronique,2,1908,3816
+2024-02-09,Laptop,Électronique,17,991,16847
+2024-02-09,Smartphone,Électronique,5,505,2525
+2024-02-09,Casque Audio,Accessoires,19,484,9196
+2024-02-09,Clavier Mécanique,Accessoires,5,740,3700
+2024-02-09,Chaise Gaming,Mobilier,2,1922,3844
+2024-02-09,Écran 27 pouces,Électronique,2,1551,3102
+2024-02-09,Souris Sans Fil,Accessoires,17,866,14722
+2024-02-09,Table de Bureau,Mobilier,3,1991,5973
+2024-02-09,Ventilateur PC,Accessoires,16,406,6496
+2024-02-09,Disque SSD 1To,Électronique,2,507,1014
+2024-02-10,Laptop,Électronique,5,850,4250
+2024-02-10,Smartphone,Électronique,12,729,8748
+2024-02-10,Casque Audio,Accessoires,9,916,8244
+2024-02-10,Clavier Mécanique,Accessoires,18,824,14832
+2024-02-10,Chaise Gaming,Mobilier,10,1105,11050
+2024-02-10,Écran 27 pouces,Électronique,15,1422,21330
+2024-02-10,Souris Sans Fil,Accessoires,18,1618,29124
+2024-02-10,Table de Bureau,Mobilier,19,193,3667
+2024-02-10,Ventilateur PC,Accessoires,7,1385,9695
+2024-02-10,Disque SSD 1To,Électronique,3,888,2664
+2024-02-11,Laptop,Électronique,9,566,5094
+2024-02-11,Smartphone,Électronique,1,1186,1186
+2024-02-11,Casque Audio,Accessoires,1,1657,1657
+2024-02-11,Clavier Mécanique,Accessoires,15,1808,27120
+2024-02-11,Chaise Gaming,Mobilier,17,57,969
+2024-02-11,Écran 27 pouces,Électronique,6,456,2736
+2024-02-11,Souris Sans Fil,Accessoires,16,1510,24160
+2024-02-11,Table de Bureau,Mobilier,14,764,10696
+2024-02-11,Ventilateur PC,Accessoires,6,432,2592
+2024-02-11,Disque SSD 1To,Électronique,10,1719,17190
+2024-02-12,Laptop,Électronique,5,1820,9100
+2024-02-12,Smartphone,Électronique,3,1019,3057
+2024-02-12,Casque Audio,Accessoires,10,112,1120
+2024-02-12,Clavier Mécanique,Accessoires,3,667,2001
+2024-02-12,Chaise Gaming,Mobilier,12,1033,12396
+2024-02-12,Écran 27 pouces,Électronique,1,1685,1685
+2024-02-12,Souris Sans Fil,Accessoires,3,1995,5985
+2024-02-12,Table de Bureau,Mobilier,13,294,3822
+2024-02-12,Ventilateur PC,Accessoires,13,1903,24739
+2024-02-12,Disque SSD 1To,Électronique,1,1443,1443
+2024-02-13,Laptop,Électronique,9,109,981
+2024-02-13,Smartphone,Électronique,10,1902,19020
+2024-02-13,Casque Audio,Accessoires,5,1231,6155
+2024-02-13,Clavier Mécanique,Accessoires,6,359,2154
+2024-02-13,Chaise Gaming,Mobilier,9,1186,10674
+2024-02-13,Écran 27 pouces,Électronique,6,1861,11166
+2024-02-13,Souris Sans Fil,Accessoires,6,1475,8850
+2024-02-13,Table de Bureau,Mobilier,11,304,3344
+2024-02-13,Ventilateur PC,Accessoires,8,801,6408
+2024-02-13,Disque SSD 1To,Électronique,2,1055,2110
+2024-02-14,Laptop,Électronique,5,1104,5520
+2024-02-14,Smartphone,Électronique,18,183,3294
+2024-02-14,Casque Audio,Accessoires,10,895,8950
+2024-02-14,Clavier Mécanique,Accessoires,10,480,4800
+2024-02-14,Chaise Gaming,Mobilier,8,81,648
+2024-02-14,Écran 27 pouces,Électronique,15,58,870
+2024-02-14,Souris Sans Fil,Accessoires,9,322,2898
+2024-02-14,Table de Bureau,Mobilier,15,1980,29700
+2024-02-14,Ventilateur PC,Accessoires,2,238,476
+2024-02-14,Disque SSD 1To,Électronique,11,524,5764
+2024-02-15,Laptop,Électronique,19,103,1957
+2024-02-15,Smartphone,Électronique,1,989,989
+2024-02-15,Casque Audio,Accessoires,14,1822,25508
+2024-02-15,Clavier Mécanique,Accessoires,7,894,6258
+2024-02-15,Chaise Gaming,Mobilier,18,1499,26982
+2024-02-15,Écran 27 pouces,Électronique,5,1241,6205
+2024-02-15,Souris Sans Fil,Accessoires,14,854,11956
+2024-02-15,Table de Bureau,Mobilier,15,1321,19815
+2024-02-15,Ventilateur PC,Accessoires,2,1493,2986
+2024-02-15,Disque SSD 1To,Électronique,11,1631,17941
+2024-02-16,Laptop,Électronique,5,735,3675
+2024-02-16,Smartphone,Électronique,16,1747,27952
+2024-02-16,Casque Audio,Accessoires,6,864,5184
+2024-02-16,Clavier Mécanique,Accessoires,16,879,14064
+2024-02-16,Chaise Gaming,Mobilier,9,293,2637
+2024-02-16,Écran 27 pouces,Électronique,16,396,6336
+2024-02-16,Souris Sans Fil,Accessoires,3,1142,3426
+2024-02-16,Table de Bureau,Mobilier,9,1301,11709
+2024-02-16,Ventilateur PC,Accessoires,14,1560,21840
+2024-02-16,Disque SSD 1To,Électronique,18,1828,32904
+2024-02-17,Laptop,Électronique,12,141,1692
+2024-02-17,Smartphone,Électronique,1,1774,1774
+2024-02-17,Casque Audio,Accessoires,7,669,4683
+2024-02-17,Clavier Mécanique,Accessoires,10,1770,17700
+2024-02-17,Chaise Gaming,Mobilier,10,1101,11010
+2024-02-17,Écran 27 pouces,Électronique,5,1844,9220
+2024-02-17,Souris Sans Fil,Accessoires,12,1061,12732
+2024-02-17,Table de Bureau,Mobilier,15,1144,17160
+2024-02-17,Ventilateur PC,Accessoires,2,1489,2978
+2024-02-17,Disque SSD 1To,Électronique,16,1925,30800
+2024-02-18,Laptop,Électronique,17,810,13770
+2024-02-18,Smartphone,Électronique,6,1053,6318
+2024-02-18,Casque Audio,Accessoires,15,1048,15720
+2024-02-18,Clavier Mécanique,Accessoires,18,1350,24300
+2024-02-18,Chaise Gaming,Mobilier,2,610,1220
+2024-02-18,Écran 27 pouces,Électronique,15,1676,25140
+2024-02-18,Souris Sans Fil,Accessoires,4,89,356
+2024-02-18,Table de Bureau,Mobilier,17,1023,17391
+2024-02-18,Ventilateur PC,Accessoires,7,727,5089
+2024-02-18,Disque SSD 1To,Électronique,5,1021,5105
+2024-02-19,Laptop,Électronique,2,1035,2070
+2024-02-19,Smartphone,Électronique,9,90,810
+2024-02-19,Casque Audio,Accessoires,4,1638,6552
+2024-02-19,Clavier Mécanique,Accessoires,18,299,5382
+2024-02-19,Chaise Gaming,Mobilier,14,798,11172
+2024-02-19,Écran 27 pouces,Électronique,8,689,5512
+2024-02-19,Souris Sans Fil,Accessoires,3,774,2322
+2024-02-19,Table de Bureau,Mobilier,19,1845,35055
+2024-02-19,Ventilateur PC,Accessoires,2,130,260
+2024-02-19,Disque SSD 1To,Électronique,17,1419,24123
+2024-02-20,Laptop,Électronique,4,1943,7772
+2024-02-20,Smartphone,Électronique,15,550,8250
+2024-02-20,Casque Audio,Accessoires,7,1225,8575
+2024-02-20,Clavier Mécanique,Accessoires,1,301,301
+2024-02-20,Chaise Gaming,Mobilier,13,1336,17368
+2024-02-20,Écran 27 pouces,Électronique,10,1411,14110
+2024-02-20,Souris Sans Fil,Accessoires,18,134,2412
+2024-02-20,Table de Bureau,Mobilier,16,1504,24064
+2024-02-20,Ventilateur PC,Accessoires,17,701,11917
+2024-02-20,Disque SSD 1To,Électronique,6,1092,6552
+2024-02-21,Laptop,Électronique,6,540,3240
+2024-02-21,Smartphone,Électronique,9,101,909
+2024-02-21,Casque Audio,Accessoires,17,1239,21063
+2024-02-21,Clavier Mécanique,Accessoires,2,492,984
+2024-02-21,Chaise Gaming,Mobilier,10,451,4510
+2024-02-21,Écran 27 pouces,Électronique,14,1365,19110
+2024-02-21,Souris Sans Fil,Accessoires,19,558,10602
+2024-02-21,Table de Bureau,Mobilier,18,462,8316
+2024-02-21,Ventilateur PC,Accessoires,9,340,3060
+2024-02-21,Disque SSD 1To,Électronique,17,934,15878
+2024-02-22,Laptop,Électronique,9,993,8937
+2024-02-22,Smartphone,Électronique,1,1285,1285
+2024-02-22,Casque Audio,Accessoires,15,517,7755
+2024-02-22,Clavier Mécanique,Accessoires,14,516,7224
+2024-02-22,Chaise Gaming,Mobilier,3,215,645
+2024-02-22,Écran 27 pouces,Électronique,18,834,15012
+2024-02-22,Souris Sans Fil,Accessoires,17,739,12563
+2024-02-22,Table de Bureau,Mobilier,9,1046,9414
+2024-02-22,Ventilateur PC,Accessoires,9,328,2952
+2024-02-22,Disque SSD 1To,Électronique,14,619,8666
+2024-02-23,Laptop,Électronique,11,1435,15785
+2024-02-23,Smartphone,Électronique,13,1532,19916
+2024-02-23,Casque Audio,Accessoires,14,715,10010
+2024-02-23,Clavier Mécanique,Accessoires,4,1915,7660
+2024-02-23,Chaise Gaming,Mobilier,15,965,14475
+2024-02-23,Écran 27 pouces,Électronique,17,852,14484
+2024-02-23,Souris Sans Fil,Accessoires,18,394,7092
+2024-02-23,Table de Bureau,Mobilier,9,107,963
+2024-02-23,Ventilateur PC,Accessoires,18,1124,20232
+2024-02-23,Disque SSD 1To,Électronique,6,159,954
+2024-02-24,Laptop,Électronique,10,448,4480
+2024-02-24,Smartphone,Électronique,3,932,2796
+2024-02-24,Casque Audio,Accessoires,14,330,4620
+2024-02-24,Clavier Mécanique,Accessoires,5,181,905
+2024-02-24,Chaise Gaming,Mobilier,4,776,3104
+2024-02-24,Écran 27 pouces,Électronique,10,1784,17840
+2024-02-24,Souris Sans Fil,Accessoires,11,1262,13882
+2024-02-24,Table de Bureau,Mobilier,3,1897,5691
+2024-02-24,Ventilateur PC,Accessoires,17,835,14195
+2024-02-24,Disque SSD 1To,Électronique,6,382,2292
+2024-02-25,Laptop,Électronique,4,174,696
+2024-02-25,Smartphone,Électronique,9,325,2925
+2024-02-25,Casque Audio,Accessoires,3,378,1134
+2024-02-25,Clavier Mécanique,Accessoires,18,1356,24408
+2024-02-25,Chaise Gaming,Mobilier,2,1746,3492
+2024-02-25,Écran 27 pouces,Électronique,18,869,15642
+2024-02-25,Souris Sans Fil,Accessoires,5,1081,5405
+2024-02-25,Table de Bureau,Mobilier,7,1380,9660
+2024-02-25,Ventilateur PC,Accessoires,13,1302,16926
+2024-02-25,Disque SSD 1To,Électronique,14,1673,23422
+2024-02-26,Laptop,Électronique,13,1864,24232
+2024-02-26,Smartphone,Électronique,14,1970,27580
+2024-02-26,Casque Audio,Accessoires,13,1715,22295
+2024-02-26,Clavier Mécanique,Accessoires,11,1276,14036
+2024-02-26,Chaise Gaming,Mobilier,10,399,3990
+2024-02-26,Écran 27 pouces,Électronique,6,574,3444
+2024-02-26,Souris Sans Fil,Accessoires,3,1981,5943
+2024-02-26,Table de Bureau,Mobilier,3,1566,4698
+2024-02-26,Ventilateur PC,Accessoires,2,1614,3228
+2024-02-26,Disque SSD 1To,Électronique,13,1147,14911
+2024-02-27,Laptop,Électronique,15,1262,18930
+2024-02-27,Smartphone,Électronique,6,77,462
+2024-02-27,Casque Audio,Accessoires,17,720,12240
+2024-02-27,Clavier Mécanique,Accessoires,9,651,5859
+2024-02-27,Chaise Gaming,Mobilier,5,88,440
+2024-02-27,Écran 27 pouces,Électronique,8,1819,14552
+2024-02-27,Souris Sans Fil,Accessoires,12,554,6648
+2024-02-27,Table de Bureau,Mobilier,10,1177,11770
+2024-02-27,Ventilateur PC,Accessoires,11,1541,16951
+2024-02-27,Disque SSD 1To,Électronique,8,499,3992
+2024-02-28,Laptop,Électronique,16,53,848
+2024-02-28,Smartphone,Électronique,2,431,862
+2024-02-28,Casque Audio,Accessoires,2,962,1924
+2024-02-28,Clavier Mécanique,Accessoires,10,764,7640
+2024-02-28,Chaise Gaming,Mobilier,14,705,9870
+2024-02-28,Écran 27 pouces,Électronique,9,1109,9981
+2024-02-28,Souris Sans Fil,Accessoires,7,1512,10584
+2024-02-28,Table de Bureau,Mobilier,5,310,1550
+2024-02-28,Ventilateur PC,Accessoires,9,1797,16173
+2024-02-28,Disque SSD 1To,Électronique,7,1492,10444
+2024-02-29,Laptop,Électronique,10,904,9040
+2024-02-29,Smartphone,Électronique,5,199,995
+2024-02-29,Casque Audio,Accessoires,8,1388,11104
+2024-02-29,Clavier Mécanique,Accessoires,6,1521,9126
+2024-02-29,Chaise Gaming,Mobilier,12,102,1224
+2024-02-29,Écran 27 pouces,Électronique,2,331,662
+2024-02-29,Souris Sans Fil,Accessoires,9,1739,15651
+2024-02-29,Table de Bureau,Mobilier,12,1959,23508
+2024-02-29,Ventilateur PC,Accessoires,4,1306,5224
+2024-02-29,Disque SSD 1To,Électronique,6,1057,6342
+2024-03-01,Laptop,Électronique,12,1530,18360
+2024-03-01,Smartphone,Électronique,19,416,7904
+2024-03-01,Casque Audio,Accessoires,5,1711,8555
+2024-03-01,Clavier Mécanique,Accessoires,2,1387,2774
+2024-03-01,Chaise Gaming,Mobilier,18,795,14310
+2024-03-01,Écran 27 pouces,Électronique,17,759,12903
+2024-03-01,Souris Sans Fil,Accessoires,19,1293,24567
+2024-03-01,Table de Bureau,Mobilier,17,527,8959
+2024-03-01,Ventilateur PC,Accessoires,13,422,5486
+2024-03-01,Disque SSD 1To,Électronique,9,1637,14733
+2024-03-02,Laptop,Électronique,15,653,9795
+2024-03-02,Smartphone,Électronique,7,1288,9016
+2024-03-02,Casque Audio,Accessoires,10,1604,16040
+2024-03-02,Clavier Mécanique,Accessoires,14,146,2044
+2024-03-02,Chaise Gaming,Mobilier,11,806,8866
+2024-03-02,Écran 27 pouces,Électronique,16,495,7920
+2024-03-02,Souris Sans Fil,Accessoires,1,382,382
+2024-03-02,Table de Bureau,Mobilier,1,901,901
+2024-03-02,Ventilateur PC,Accessoires,10,414,4140
+2024-03-02,Disque SSD 1To,Électronique,11,711,7821
+2024-03-03,Laptop,Électronique,15,350,5250
+2024-03-03,Smartphone,Électronique,9,117,1053
+2024-03-03,Casque Audio,Accessoires,19,1599,30381
+2024-03-03,Clavier Mécanique,Accessoires,10,1929,19290
+2024-03-03,Chaise Gaming,Mobilier,14,328,4592
+2024-03-03,Écran 27 pouces,Électronique,1,1851,1851
+2024-03-03,Souris Sans Fil,Accessoires,9,57,513
+2024-03-03,Table de Bureau,Mobilier,19,300,5700
+2024-03-03,Ventilateur PC,Accessoires,12,561,6732
+2024-03-03,Disque SSD 1To,Électronique,13,398,5174
+2024-03-04,Laptop,Électronique,12,1040,12480
+2024-03-04,Smartphone,Électronique,5,1011,5055
+2024-03-04,Casque Audio,Accessoires,1,1404,1404
+2024-03-04,Clavier Mécanique,Accessoires,5,1762,8810
+2024-03-04,Chaise Gaming,Mobilier,18,1648,29664
+2024-03-04,Écran 27 pouces,Électronique,3,1791,5373
+2024-03-04,Souris Sans Fil,Accessoires,9,599,5391
+2024-03-04,Table de Bureau,Mobilier,9,1003,9027
+2024-03-04,Ventilateur PC,Accessoires,10,119,1190
+2024-03-04,Disque SSD 1To,Électronique,14,591,8274
+2024-03-05,Laptop,Électronique,6,799,4794
+2024-03-05,Smartphone,Électronique,16,1746,27936
+2024-03-05,Casque Audio,Accessoires,3,758,2274
+2024-03-05,Clavier Mécanique,Accessoires,1,642,642
+2024-03-05,Chaise Gaming,Mobilier,3,1227,3681
+2024-03-05,Écran 27 pouces,Électronique,10,200,2000
+2024-03-05,Souris Sans Fil,Accessoires,1,490,490
+2024-03-05,Table de Bureau,Mobilier,2,1666,3332
+2024-03-05,Ventilateur PC,Accessoires,7,334,2338
+2024-03-05,Disque SSD 1To,Électronique,1,391,391
+2024-03-06,Laptop,Électronique,12,1253,15036
+2024-03-06,Smartphone,Électronique,15,1910,28650
+2024-03-06,Casque Audio,Accessoires,11,305,3355
+2024-03-06,Clavier Mécanique,Accessoires,1,1058,1058
+2024-03-06,Chaise Gaming,Mobilier,10,374,3740
+2024-03-06,Écran 27 pouces,Électronique,17,303,5151
+2024-03-06,Souris Sans Fil,Accessoires,14,1674,23436
+2024-03-06,Table de Bureau,Mobilier,11,1916,21076
+2024-03-06,Ventilateur PC,Accessoires,11,372,4092
+2024-03-06,Disque SSD 1To,Électronique,16,388,6208
+2024-03-07,Laptop,Électronique,18,96,1728
+2024-03-07,Smartphone,Électronique,1,1034,1034
+2024-03-07,Casque Audio,Accessoires,3,82,246
+2024-03-07,Clavier Mécanique,Accessoires,1,476,476
+2024-03-07,Chaise Gaming,Mobilier,15,1033,15495
+2024-03-07,Écran 27 pouces,Électronique,1,1010,1010
+2024-03-07,Souris Sans Fil,Accessoires,6,811,4866
+2024-03-07,Table de Bureau,Mobilier,2,732,1464
+2024-03-07,Ventilateur PC,Accessoires,9,1035,9315
+2024-03-07,Disque SSD 1To,Électronique,13,1121,14573
+2024-03-08,Laptop,Électronique,10,1968,19680
+2024-03-08,Smartphone,Électronique,11,150,1650
+2024-03-08,Casque Audio,Accessoires,13,1222,15886
+2024-03-08,Clavier Mécanique,Accessoires,17,444,7548
+2024-03-08,Chaise Gaming,Mobilier,10,1938,19380
+2024-03-08,Écran 27 pouces,Électronique,11,1829,20119
+2024-03-08,Souris Sans Fil,Accessoires,7,290,2030
+2024-03-08,Table de Bureau,Mobilier,13,1059,13767
+2024-03-08,Ventilateur PC,Accessoires,8,1968,15744
+2024-03-08,Disque SSD 1To,Électronique,11,1514,16654
+2024-03-09,Laptop,Électronique,18,992,17856
+2024-03-09,Smartphone,Électronique,8,1873,14984
+2024-03-09,Casque Audio,Accessoires,12,1780,21360
+2024-03-09,Clavier Mécanique,Accessoires,6,1611,9666
+2024-03-09,Chaise Gaming,Mobilier,19,170,3230
+2024-03-09,Écran 27 pouces,Électronique,10,88,880
+2024-03-09,Souris Sans Fil,Accessoires,7,269,1883
+2024-03-09,Table de Bureau,Mobilier,18,366,6588
+2024-03-09,Ventilateur PC,Accessoires,13,200,2600
+2024-03-09,Disque SSD 1To,Électronique,7,1950,13650
+2024-03-10,Laptop,Électronique,14,943,13202
+2024-03-10,Smartphone,Électronique,12,877,10524
+2024-03-10,Casque Audio,Accessoires,18,1488,26784
+2024-03-10,Clavier Mécanique,Accessoires,7,1777,12439
+2024-03-10,Chaise Gaming,Mobilier,12,227,2724
+2024-03-10,Écran 27 pouces,Électronique,2,998,1996
+2024-03-10,Souris Sans Fil,Accessoires,19,651,12369
+2024-03-10,Table de Bureau,Mobilier,5,1345,6725
+2024-03-10,Ventilateur PC,Accessoires,10,224,2240
+2024-03-10,Disque SSD 1To,Électronique,6,1104,6624
+2024-03-11,Laptop,Électronique,4,1020,4080
+2024-03-11,Smartphone,Électronique,13,1059,13767
+2024-03-11,Casque Audio,Accessoires,2,338,676
+2024-03-11,Clavier Mécanique,Accessoires,8,1277,10216
+2024-03-11,Chaise Gaming,Mobilier,13,118,1534
+2024-03-11,Écran 27 pouces,Électronique,19,1305,24795
+2024-03-11,Souris Sans Fil,Accessoires,14,807,11298
+2024-03-11,Table de Bureau,Mobilier,10,682,6820
+2024-03-11,Ventilateur PC,Accessoires,1,1665,1665
+2024-03-11,Disque SSD 1To,Électronique,1,816,816
+2024-03-12,Laptop,Électronique,19,630,11970
+2024-03-12,Smartphone,Électronique,14,1020,14280
+2024-03-12,Casque Audio,Accessoires,14,1012,14168
+2024-03-12,Clavier Mécanique,Accessoires,3,1656,4968
+2024-03-12,Chaise Gaming,Mobilier,2,1523,3046
+2024-03-12,Écran 27 pouces,Électronique,7,1144,8008
+2024-03-12,Souris Sans Fil,Accessoires,19,946,17974
+2024-03-12,Table de Bureau,Mobilier,17,1092,18564
+2024-03-12,Ventilateur PC,Accessoires,1,168,168
+2024-03-12,Disque SSD 1To,Électronique,3,1910,5730
+2024-03-13,Laptop,Électronique,14,120,1680
+2024-03-13,Smartphone,Électronique,6,1391,8346
+2024-03-13,Casque Audio,Accessoires,6,1793,10758
+2024-03-13,Clavier Mécanique,Accessoires,7,191,1337
+2024-03-13,Chaise Gaming,Mobilier,8,689,5512
+2024-03-13,Écran 27 pouces,Électronique,2,1164,2328
+2024-03-13,Souris Sans Fil,Accessoires,18,1214,21852
+2024-03-13,Table de Bureau,Mobilier,14,412,5768
+2024-03-13,Ventilateur PC,Accessoires,3,1402,4206
+2024-03-13,Disque SSD 1To,Électronique,13,990,12870
+2024-03-14,Laptop,Électronique,11,550,6050
+2024-03-14,Smartphone,Électronique,17,495,8415
+2024-03-14,Casque Audio,Accessoires,8,185,1480
+2024-03-14,Clavier Mécanique,Accessoires,14,146,2044
+2024-03-14,Chaise Gaming,Mobilier,12,484,5808
+2024-03-14,Écran 27 pouces,Électronique,12,1625,19500
+2024-03-14,Souris Sans Fil,Accessoires,10,1420,14200
+2024-03-14,Table de Bureau,Mobilier,18,1998,35964
+2024-03-14,Ventilateur PC,Accessoires,19,770,14630
+2024-03-14,Disque SSD 1To,Électronique,18,612,11016
+2024-03-15,Laptop,Électronique,4,1857,7428
+2024-03-15,Smartphone,Électronique,14,437,6118
+2024-03-15,Casque Audio,Accessoires,12,575,6900
+2024-03-15,Clavier Mécanique,Accessoires,5,284,1420
+2024-03-15,Chaise Gaming,Mobilier,9,945,8505
+2024-03-15,Écran 27 pouces,Électronique,2,436,872
+2024-03-15,Souris Sans Fil,Accessoires,1,808,808
+2024-03-15,Table de Bureau,Mobilier,3,936,2808
+2024-03-15,Ventilateur PC,Accessoires,7,1768,12376
+2024-03-15,Disque SSD 1To,Électronique,6,208,1248
+2024-03-16,Laptop,Électronique,19,836,15884
+2024-03-16,Smartphone,Électronique,12,747,8964
+2024-03-16,Casque Audio,Accessoires,12,1939,23268
+2024-03-16,Clavier Mécanique,Accessoires,13,1943,25259
+2024-03-16,Chaise Gaming,Mobilier,9,701,6309
+2024-03-16,Écran 27 pouces,Électronique,15,476,7140
+2024-03-16,Souris Sans Fil,Accessoires,13,647,8411
+2024-03-16,Table de Bureau,Mobilier,12,1405,16860
+2024-03-16,Ventilateur PC,Accessoires,12,867,10404
+2024-03-16,Disque SSD 1To,Électronique,6,1379,8274
+2024-03-17,Laptop,Électronique,5,55,275
+2024-03-17,Smartphone,Électronique,18,553,9954
+2024-03-17,Casque Audio,Accessoires,2,505,1010
+2024-03-17,Clavier Mécanique,Accessoires,13,401,5213
+2024-03-17,Chaise Gaming,Mobilier,12,1785,21420
+2024-03-17,Écran 27 pouces,Électronique,12,1970,23640
+2024-03-17,Souris Sans Fil,Accessoires,14,1433,20062
+2024-03-17,Table de Bureau,Mobilier,18,880,15840
+2024-03-17,Ventilateur PC,Accessoires,6,1808,10848
+2024-03-17,Disque SSD 1To,Électronique,12,891,10692
+2024-03-18,Laptop,Électronique,2,838,1676
+2024-03-18,Smartphone,Électronique,17,1297,22049
+2024-03-18,Casque Audio,Accessoires,1,1214,1214
+2024-03-18,Clavier Mécanique,Accessoires,10,1599,15990
+2024-03-18,Chaise Gaming,Mobilier,19,1181,22439
+2024-03-18,Écran 27 pouces,Électronique,3,1909,5727
+2024-03-18,Souris Sans Fil,Accessoires,4,1268,5072
+2024-03-18,Table de Bureau,Mobilier,3,1626,4878
+2024-03-18,Ventilateur PC,Accessoires,12,1567,18804
+2024-03-18,Disque SSD 1To,Électronique,5,571,2855
+2024-03-19,Laptop,Électronique,15,1655,24825
+2024-03-19,Smartphone,Électronique,15,1551,23265
+2024-03-19,Casque Audio,Accessoires,13,244,3172
+2024-03-19,Clavier Mécanique,Accessoires,4,1652,6608
+2024-03-19,Chaise Gaming,Mobilier,18,1077,19386
+2024-03-19,Écran 27 pouces,Électronique,3,458,1374
+2024-03-19,Souris Sans Fil,Accessoires,8,993,7944
+2024-03-19,Table de Bureau,Mobilier,13,1894,24622
+2024-03-19,Ventilateur PC,Accessoires,7,794,5558
+2024-03-19,Disque SSD 1To,Électronique,12,272,3264
+2024-03-20,Laptop,Électronique,4,1447,5788
+2024-03-20,Smartphone,Électronique,16,644,10304
+2024-03-20,Casque Audio,Accessoires,16,1612,25792
+2024-03-20,Clavier Mécanique,Accessoires,13,1265,16445
+2024-03-20,Chaise Gaming,Mobilier,1,1417,1417
+2024-03-20,Écran 27 pouces,Électronique,1,1108,1108
+2024-03-20,Souris Sans Fil,Accessoires,13,363,4719
+2024-03-20,Table de Bureau,Mobilier,18,923,16614
+2024-03-20,Ventilateur PC,Accessoires,18,427,7686
+2024-03-20,Disque SSD 1To,Électronique,14,1599,22386
+2024-03-21,Laptop,Électronique,2,1934,3868
+2024-03-21,Smartphone,Électronique,12,583,6996
+2024-03-21,Casque Audio,Accessoires,8,1905,15240
+2024-03-21,Clavier Mécanique,Accessoires,4,349,1396
+2024-03-21,Chaise Gaming,Mobilier,16,474,7584
+2024-03-21,Écran 27 pouces,Électronique,4,228,912
+2024-03-21,Souris Sans Fil,Accessoires,7,646,4522
+2024-03-21,Table de Bureau,Mobilier,2,1154,2308
+2024-03-21,Ventilateur PC,Accessoires,17,1674,28458
+2024-03-21,Disque SSD 1To,Électronique,9,1148,10332
+2024-03-22,Laptop,Électronique,11,729,8019
+2024-03-22,Smartphone,Électronique,18,1086,19548
+2024-03-22,Casque Audio,Accessoires,12,1388,16656
+2024-03-22,Clavier Mécanique,Accessoires,9,782,7038
+2024-03-22,Chaise Gaming,Mobilier,10,67,670
+2024-03-22,Écran 27 pouces,Électronique,5,862,4310
+2024-03-22,Souris Sans Fil,Accessoires,17,1988,33796
+2024-03-22,Table de Bureau,Mobilier,2,1307,2614
+2024-03-22,Ventilateur PC,Accessoires,15,622,9330
+2024-03-22,Disque SSD 1To,Électronique,1,1045,1045
+2024-03-23,Laptop,Électronique,2,1765,3530
+2024-03-23,Smartphone,Électronique,12,227,2724
+2024-03-23,Casque Audio,Accessoires,5,1625,8125
+2024-03-23,Clavier Mécanique,Accessoires,15,1191,17865
+2024-03-23,Chaise Gaming,Mobilier,15,1031,15465
+2024-03-23,Écran 27 pouces,Électronique,1,1732,1732
+2024-03-23,Souris Sans Fil,Accessoires,13,963,12519
+2024-03-23,Table de Bureau,Mobilier,2,1712,3424
+2024-03-23,Ventilateur PC,Accessoires,13,1165,15145
+2024-03-23,Disque SSD 1To,Électronique,4,543,2172
+2024-03-24,Laptop,Électronique,11,314,3454
+2024-03-24,Smartphone,Électronique,12,289,3468
+2024-03-24,Casque Audio,Accessoires,9,787,7083
+2024-03-24,Clavier Mécanique,Accessoires,2,1207,2414
+2024-03-24,Chaise Gaming,Mobilier,19,1225,23275
+2024-03-24,Écran 27 pouces,Électronique,18,1788,32184
+2024-03-24,Souris Sans Fil,Accessoires,16,1926,30816
+2024-03-24,Table de Bureau,Mobilier,14,1828,25592
+2024-03-24,Ventilateur PC,Accessoires,13,357,4641
+2024-03-24,Disque SSD 1To,Électronique,1,1571,1571
+2024-03-25,Laptop,Électronique,18,406,7308
+2024-03-25,Smartphone,Électronique,7,948,6636
+2024-03-25,Casque Audio,Accessoires,17,137,2329
+2024-03-25,Clavier Mécanique,Accessoires,17,583,9911
+2024-03-25,Chaise Gaming,Mobilier,2,1520,3040
+2024-03-25,Écran 27 pouces,Électronique,17,1122,19074
+2024-03-25,Souris Sans Fil,Accessoires,11,425,4675
+2024-03-25,Table de Bureau,Mobilier,18,1500,27000
+2024-03-25,Ventilateur PC,Accessoires,12,1986,23832
+2024-03-25,Disque SSD 1To,Électronique,13,1449,18837
+2024-03-26,Laptop,Électronique,9,1091,9819
+2024-03-26,Smartphone,Électronique,1,185,185
+2024-03-26,Casque Audio,Accessoires,17,816,13872
+2024-03-26,Clavier Mécanique,Accessoires,12,1730,20760
+2024-03-26,Chaise Gaming,Mobilier,7,776,5432
+2024-03-26,Écran 27 pouces,Électronique,18,1849,33282
+2024-03-26,Souris Sans Fil,Accessoires,3,895,2685
+2024-03-26,Table de Bureau,Mobilier,6,725,4350
+2024-03-26,Ventilateur PC,Accessoires,15,1806,27090
+2024-03-26,Disque SSD 1To,Électronique,4,361,1444
+2024-03-27,Laptop,Électronique,19,1566,29754
+2024-03-27,Smartphone,Électronique,14,389,5446
+2024-03-27,Casque Audio,Accessoires,5,1438,7190
+2024-03-27,Clavier Mécanique,Accessoires,18,1798,32364
+2024-03-27,Chaise Gaming,Mobilier,19,134,2546
+2024-03-27,Écran 27 pouces,Électronique,18,524,9432
+2024-03-27,Souris Sans Fil,Accessoires,8,313,2504
+2024-03-27,Table de Bureau,Mobilier,6,720,4320
+2024-03-27,Ventilateur PC,Accessoires,6,970,5820
+2024-03-27,Disque SSD 1To,Électronique,14,1334,18676
+2024-03-28,Laptop,Électronique,16,363,5808
+2024-03-28,Smartphone,Électronique,15,1395,20925
+2024-03-28,Casque Audio,Accessoires,5,683,3415
+2024-03-28,Clavier Mécanique,Accessoires,15,128,1920
+2024-03-28,Chaise Gaming,Mobilier,5,1987,9935
+2024-03-28,Écran 27 pouces,Électronique,7,1973,13811
+2024-03-28,Souris Sans Fil,Accessoires,16,1927,30832
+2024-03-28,Table de Bureau,Mobilier,18,619,11142
+2024-03-28,Ventilateur PC,Accessoires,12,1046,12552
+2024-03-28,Disque SSD 1To,Électronique,14,1400,19600
+2024-03-29,Laptop,Électronique,2,409,818
+2024-03-29,Smartphone,Électronique,3,123,369
+2024-03-29,Casque Audio,Accessoires,5,553,2765
+2024-03-29,Clavier Mécanique,Accessoires,18,1340,24120
+2024-03-29,Chaise Gaming,Mobilier,8,1400,11200
+2024-03-29,Écran 27 pouces,Électronique,1,863,863
+2024-03-29,Souris Sans Fil,Accessoires,16,1513,24208
+2024-03-29,Table de Bureau,Mobilier,11,1492,16412
+2024-03-29,Ventilateur PC,Accessoires,14,309,4326
+2024-03-29,Disque SSD 1To,Électronique,19,1657,31483
+2024-03-30,Laptop,Électronique,14,218,3052
+2024-03-30,Smartphone,Électronique,17,1628,27676
+2024-03-30,Casque Audio,Accessoires,2,1793,3586
+2024-03-30,Clavier Mécanique,Accessoires,13,1250,16250
+2024-03-30,Chaise Gaming,Mobilier,6,449,2694
+2024-03-30,Écran 27 pouces,Électronique,9,1602,14418
+2024-03-30,Souris Sans Fil,Accessoires,2,875,1750
+2024-03-30,Table de Bureau,Mobilier,17,658,11186
+2024-03-30,Ventilateur PC,Accessoires,19,273,5187
+2024-03-30,Disque SSD 1To,Électronique,16,1866,29856
+2024-03-31,Laptop,Électronique,1,1131,1131
+2024-03-31,Smartphone,Électronique,7,1366,9562
+2024-03-31,Casque Audio,Accessoires,10,706,7060
+2024-03-31,Clavier Mécanique,Accessoires,9,628,5652
+2024-03-31,Chaise Gaming,Mobilier,15,237,3555
+2024-03-31,Écran 27 pouces,Électronique,18,359,6462
+2024-03-31,Souris Sans Fil,Accessoires,6,1027,6162
+2024-03-31,Table de Bureau,Mobilier,14,1931,27034
+2024-03-31,Ventilateur PC,Accessoires,13,1712,22256
+2024-03-31,Disque SSD 1To,Électronique,9,1168,10512
