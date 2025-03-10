@@ -13,4 +13,5 @@
 
 ### **Livrables** :  
 ✅ Un script Python (Pandas, NumPy, Matplotlib) pour l’analyse des données
+
 ✅ Un rapport de 1-2 pages avec des graphiques et des conclusions  
