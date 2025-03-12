@@ -13,6 +13,8 @@ Pandas est une bibliothèque Python puissante pour l’analyse et la manipulatio
 Avant de commencer, assurez-vous que Pandas est installé :
 ```bash
 pip install pandas
+# ou
+python -m pip install pandas
 ```
 Puis, importez Pandas dans votre script :
 ```python
@@ -28,6 +30,9 @@ Pandas repose sur deux structures fondamentales :
 
 #### a) Series : Tableau 1D
 Une `Series` est comme une colonne dans un tableau. Elle est composée de valeurs et d'index (étiquettes) associés.:
+
+<img src="./images/pandas_serie.png" alt="Pandas Series" width="400"/>
+
 ```python
 s = pd.Series([10, 20, 30, 40, 50], index=['a', 'b', 'c', 'd', 'e'])
 print(s)
@@ -79,6 +84,8 @@ print(s.describe())  # Résumé statistique
 
 #### b) DataFrame : Tableau 2D
 Un **DataFrame** est une structure en **lignes et colonnes**, semblable à une feuille Excel.
+
+<img src="./images/pandas_dataframe.png" alt="Pandas DataFrame" width="400"/>
 
 - On peut créer un DataFrame à partir d'un dictionnaire ou chaque clé est une colonne:
 ```python
